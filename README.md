@@ -13,19 +13,13 @@ De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad s
 # Etapa 02. Especificaciones. 
 
 - entrada:
--  
-proceso de los trabajdores - fin de los trabajadores proceso: solicitar el banco que requiera solicitar la cantidad de empleados solicitar el nombre del empelado solicitar el apellido paterno del empleado solicitar el apellido materno del empleado solicitar el rfc del empleado solicitar su curp del empleado solicitar el correo electronico del empleado solicitar el numero telefonico del empleado solcitar que en que area se encuentra esta se hace ciclo if de los puestos solicitar el salario semanal del empleado solicitar el tiempo que lleva trabajando en la empresa se hace sentencia if de acuerdo a los años que ha trabajado para sacar su isr 
+  
+
 
 - salida:
 
 +-------------------------------------------------------------------------------+
-la empresa es                                                             
-el nombre del empleado es                             
-el RFC del empleado es 1234567                                                
-el curp del empleado es meti040701hpllrna8                                     
-el correo electronico del empleado es 107@gmail.com                     
-el salario neto del empleado              
-la nomina de todos los empleados es de 1000                                    
+                                   
                                                                                
                                                                              
 +-------------------------------------------------------------------------------+
