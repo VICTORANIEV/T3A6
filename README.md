@@ -12,19 +12,20 @@ De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad s
 
 # Etapa 02. Especificaciones. 
 
-- entrada:
-  
-
-
-- salida:
-
 +-------------------------------------------------------------------------------+
-                                   
-                                                                               
-                                                                             
+|la empresa es cdmx                                                             |
+| el nombre del empleado es Victor Aniev                                        |
+| el RFC del empleado es 11223344                                               |
+|el curp del empleado es rirv040916hplvnca5                                     |
+|el correo electronico del empleado es rivera@gmail.com                         |
+|el salario neto del empleado 100                                               |
+|la nomina de todos los empleados es de 1000                                    |
+|                                                                               |
+|                                                                               |
 +-------------------------------------------------------------------------------+
+
 # Etapa 03. Diseño de la solucion.
-
+![](
 
 
 
