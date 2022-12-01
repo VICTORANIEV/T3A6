@@ -12,7 +12,7 @@ De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad s
 
 # Etapa 02. Especificaciones. 
 
-~
+~~~~~
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
 | el nombre del empleado es Victor Aniev                                        |
@@ -24,7 +24,7 @@ De 0 a 2 años de antigüedad no se asigna bono. de 3 a 5 años de antigüedad s
 |                                                                               |
 |                                                                               |
 +-------------------------------------------------------------------------------+
-~
+~~~~
 # Etapa 03. Diseño de la solucion.
 ![](https://github.com/VICTORANIEV/T3A6/blob/main/DiagramaT3A6.png)
 
